@@ -1,0 +1,2 @@
+# OpenClashRule
+OpenClashRule
